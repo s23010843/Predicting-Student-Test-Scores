@@ -70,3 +70,6 @@ outputs/
 
 # CatBoost
 catboost_info/
+
+# Custom
+input/
